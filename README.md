@@ -27,7 +27,7 @@ To use the calculator, clone the repository and open the `index.html` file in yo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mohamed-khaled-mohmamed/calculator-app.git
+   git clone https://github.com/selhabAhmedyakoub/Calculator.git
    ```
 2. Navigate to the project directory:
    ```bash
